@@ -1,0 +1,12 @@
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\bin\Debug\DAL.dll
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.dll
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.pdb
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\bin\Debug\DAL.dll
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\bin\Debug\DAL.pdb
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.dll
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DAL\obj\Debug\DAL.pdb

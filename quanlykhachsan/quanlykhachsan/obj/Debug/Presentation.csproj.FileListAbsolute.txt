@@ -1,0 +1,48 @@
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\BLL.dll
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\DAL.dll
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\DTO.dll
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\BLL.pdb
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\DAL.pdb
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\DTO.pdb
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csprojAssemblyReference.cache
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmbaocao.resources
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmdangnhap.resources
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmkhachhang.resources
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmain.resources
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmnhanvien.resources
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinphong.resources
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinpphongkh.resources
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmainquanlykhachsan.resources
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csproj.GenerateResource.cache
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csproj.CopyComplete
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe.config
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.exe
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\quanlykhachsan.pdb
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\BLL.dll
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\DAL.dll
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\DTO.dll
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\BLL.pdb
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\DAL.pdb
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\bin\Debug\DTO.pdb
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csprojAssemblyReference.cache
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmbaocao.resources
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmdangnhap.resources
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmkhachhang.resources
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmain.resources
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmnhanvien.resources
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinphong.resources
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmthongtinpphongkh.resources
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.Properties.Resources.resources
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.frmmainquanlykhachsan.resources
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\Presentation.csproj.CopyComplete
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.exe
+D:\Study\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\quanlykhachsan\obj\Debug\quanlykhachsan.pdb

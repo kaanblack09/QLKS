@@ -1,0 +1,6 @@
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DTO\bin\Debug\DTO.dll
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DTO\bin\Debug\DTO.pdb
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.dll
+E:\Desktop\Thực tập nhóm\Nhóm thiên\QuanLyKhachSan\quanlykhachsan\DTO\obj\Debug\DTO.pdb
